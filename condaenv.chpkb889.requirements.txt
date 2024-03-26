@@ -1,0 +1,13 @@
+ipykernel
+spacy
+scattertext
+pandas
+scikit-learn
+nltk
+networkx
+corextopic
+scipy
+matplotlib
+seaborn
+vaderSentiment
+ipywidgets
